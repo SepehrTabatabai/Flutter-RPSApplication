@@ -1,6 +1,6 @@
 ## flutter_rock_paper_scissors
 
-Welcome to the Flutter RPS Application! This is a mobile app developed using the Flutter framework, designed to provide an immersive experience for drum enthusiasts.
+Welcome to the Flutter RPS Application! This is a mobile app developed using the Flutter framework.
 
 A new Flutter project.
 
